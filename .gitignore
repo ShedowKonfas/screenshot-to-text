@@ -1,0 +1,16 @@
+# виртуальное окружение
+venv/
+.venv/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# личные файлы и артефакты
+screenshots/
+*.lnk
+
+# ide
+.vscode/
+.idea/

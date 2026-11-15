@@ -1,0 +1,4 @@
+Pillow==12.3.0
+pytesseract==0.3.13
+pyperclip==1.11.0
+# tkinter входит в стандартную поставку Python и через pip не устанавливается
